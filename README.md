@@ -2,10 +2,10 @@
 
 Hello!
 
-This Repo has Installers to Give Patchs and Updates
+This Repo has Installers to give patches and Updates
 
 Password to the V1 of the Installer is patchs77
 
-Still Adding New Installers
+Still Updating Installers
 
 We Have Signed Installers too
